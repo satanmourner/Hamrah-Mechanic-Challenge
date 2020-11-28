@@ -1,0 +1,18 @@
+header {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header > img {
+  width: 66px;
+  height: 65px;
+  padding: 5px;
+}
+
+header > h1 {
+  font-family: "Indie Flower", cursive;
+  align-self: flex-end;
+  color: rgba(255, 255, 255, 0.8);
+}
