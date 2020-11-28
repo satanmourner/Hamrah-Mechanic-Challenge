@@ -25,9 +25,7 @@ export default function useContainer() {
       }
     }
 
-    arrWidth.map((value, index) => {
-      arrObj.push({ id: ++index, width: value });
-    });
+    arrWidth.map((value, index) => arrObj.push({ id: ++index, width: value }));
     console.log(arrObj);
 
     setValue("");
