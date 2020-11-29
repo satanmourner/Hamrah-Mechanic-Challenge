@@ -1,3 +1,8 @@
+# About this challenge
+I completed this task in 3 hours, 1 hour for implementing algorithm and 2 hours for designing.
+You can see the result on github pages, here it is link :
+https://shah59.github.io/Hamrah-Mechanic-Challenge/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
